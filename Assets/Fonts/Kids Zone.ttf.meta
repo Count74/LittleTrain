@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: eabbae8dc6510594498f38c2367b09a7
+timeCreated: 1553642528
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kids Zone
+  fontNames:
+  - Kids Zone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b517243789b5c1499c31e7d966949fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
